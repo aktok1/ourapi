@@ -1,0 +1,9 @@
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\bin\Debug\netcoreapp1.1\OurApi.deps.json
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\bin\Debug\netcoreapp1.1\OurApi.runtimeconfig.json
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\bin\Debug\netcoreapp1.1\OurApi.runtimeconfig.dev.json
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\bin\Debug\netcoreapp1.1\OurApi.dll
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\bin\Debug\netcoreapp1.1\OurApi.pdb
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\obj\Debug\netcoreapp1.1\OurApi.csprojResolveAssemblyReference.cache
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\obj\Debug\netcoreapp1.1\OurApi.AssemblyInfo.cs
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\obj\Debug\netcoreapp1.1\OurApi.dll
+D:\Shm\Work\AKTOK\Bot\Src\OurApi\OurApi\obj\Debug\netcoreapp1.1\OurApi.pdb
